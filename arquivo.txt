@@ -1,0 +1,3 @@
+A resistencia em pararelo é:2.5ohms
+A corrente total é:8A
+A potencia total é:2.5W
